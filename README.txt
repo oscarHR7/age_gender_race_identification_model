@@ -4,6 +4,5 @@
 
 采用数据集TKFace/ 2 万张单人脸图片，覆盖 5 个人种，0-116 岁区间。
 
-参考论文：Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks https://arxiv.org/abs/1312.6082 来自 Google 2013.12 月
-
-配合有详细的代码解释，方便初学者理解
+参考论文：Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks https://arxiv.org/abs/1312.6082 
+本人按照自己的理解进行了合理的代码注释，方便初学者理解
